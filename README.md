@@ -24,7 +24,7 @@ The tool processes multiple PDF files from a selected folder and generates a sin
 ## 🛠️ Technologies Used
 
 * Python 🐍
-* pypdf / PyPDF2
+* PyPDF2
 
 ---
 
