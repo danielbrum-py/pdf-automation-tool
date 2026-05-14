@@ -89,7 +89,7 @@ The tool processes multiple PDF files from a selected folder and generates a sin
 
 ## 📸 Demo
 
-* Add
+* (code.png)
 ---
 
 ## 🤝 Contribution
